@@ -1,4 +1,0 @@
-Sales of Car A within 30 days: 14
-Sales of Car B within 30 days: 10
-Sales of Car C within 30 days: 6
------------------------------------------------------------

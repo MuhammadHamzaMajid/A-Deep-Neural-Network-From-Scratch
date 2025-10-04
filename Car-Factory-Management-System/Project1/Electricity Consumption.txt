@@ -1,7 +1,0 @@
-ELectricity consumed for carA: 120.000000
-ELectricity consumed for carB: 110.000000
-ELectricity consumed for carC: 150.000000
-Average electricty used/carA: 0.133333
-Average electricty used/carB: 0.109091
-Average electricty used/carC: 0.053333
-------------------------------------------------------------
